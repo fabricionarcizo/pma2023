@@ -41,7 +41,7 @@ Groups are expected to present/demo and discuss their prototype work in-class du
 | 02 | 06/09/2023 | [From JavaScript to React Native](lecture02) |
 | 05 | 27/09/2023 | [Firebase to React Native](lecture05) |
 | 08 | 25/10/2023 | [Location-based services and Geolocation](lecture08) |
-| 10 | 08/11/2023 | Camera and other Hardware Components |
+| 10 | 08/11/2023 | [Camera and other Hardware Components](lecture10) |
 
 ## Course Literature
 
